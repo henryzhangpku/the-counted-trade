@@ -18,7 +18,9 @@
 
 8. In his interview in Jack Schwager's *Hedge Fund Market Wizards*, Jamie Mai described a book of such bets, most of them expected to fail, the few that paid carrying all the rest. The arithmetic begins with the one, not the ten.
 
-9. The pot does not know why it cools. The market owes no man a reason, only the bill.
+9. A three-dollar spread wins seven and loses three. That is the pot. How many pots the account can feed at once is the firewood.
+
+10. The pot does not know why it cools. The market owes no man a reason, only the bill.
 
 ## Commentary
 

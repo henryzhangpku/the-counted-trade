@@ -672,7 +672,9 @@ The test is applied to the king, not to every bandit. A setup is tested once, in
 
 8. In his interview in Jack Schwager's *Hedge Fund Market Wizards*, Jamie Mai described a book of such bets, most of them expected to fail, the few that paid carrying all the rest. The arithmetic begins with the one, not the ten.
 
-9. The pot does not know why it cools. The market owes no man a reason, only the bill.
+9. A three-dollar spread wins seven and loses three. That is the pot. How many pots the account can feed at once is the firewood.
+
+10. The pot does not know why it cools. The market owes no man a reason, only the bill.
 
 ## Commentary
 
@@ -902,6 +904,8 @@ What the test removed was the beam that carried the roof. Mai's quiet stock was 
 
 9. Praise the mulberry beyond its fruit, and the locust learns to trust false praise.
 
+10. The tree pointed at must be a real tree. Otherwise the listener learns only to watch the finger.
+
 ## Commentary
 
 The stratagem is usually read as discipline by indirection: correct one man by correcting another in his hearing. The trade card works the same way. It is written for the next reader of the position — a partner, a future self, a reviewer — and its honesty is measured by what it declines to claim.
@@ -936,6 +940,8 @@ The trader's own labels matter most when no one else reads them. A journal entry
 
 9. Wait. The market opens again tomorrow, and the count does not expire with the session.
 
+10. To come home empty-handed and keep the measure is skill, not luck.
+
 ## Commentary
 
 The stratagem is about a mask worn with a purpose: the appearance of disorder covering a real order. For the buyer the mask is idleness. A session in which nothing passes the funnel looks, from outside, like a session in which nothing was done. From inside it is the last stage of the funnel, where the candidates that survived liquidity and calendar and volatility are rejected for want of an edge.
@@ -969,6 +975,8 @@ The discipline is to record the empty day as a result. The journal should show t
 8. Commitment is not the size of the first step. It is the refusal to cut a new rung afterward.
 
 9. The enemy on the roof is not the market. It is the part of the trader that wants a second chance at a better price.
+
+10. Only when the ladder is cleanly gone does the man see the roof he stands on.
 
 ## Commentary
 

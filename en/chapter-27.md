@@ -20,6 +20,8 @@
 
 9. Wait. The market opens again tomorrow, and the count does not expire with the session.
 
+10. To come home empty-handed and keep the measure is skill, not luck.
+
 ## Commentary
 
 The stratagem is about a mask worn with a purpose: the appearance of disorder covering a real order. For the buyer the mask is idleness. A session in which nothing passes the funnel looks, from outside, like a session in which nothing was done. From inside it is the last stage of the funnel, where the candidates that survived liquidity and calendar and volatility are rejected for want of an edge.

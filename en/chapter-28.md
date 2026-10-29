@@ -20,6 +20,8 @@
 
 9. The enemy on the roof is not the market. It is the part of the trader that wants a second chance at a better price.
 
+10. Only when the ladder is cleanly gone does the man see the roof he stands on.
+
 ## Commentary
 
 The stratagem removes the option of retreat so that the man on the roof commits to the route he chose. In the buyer's trade the ladder is built in the opposite direction: it is placed before entry, and taken away after. The first tranche is small because it is a step, not a verdict. The adds are written at confirmation levels, where the thesis has shown something, and they are funded from the original maximum-loss budget rather than from a fresh one.

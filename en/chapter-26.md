@@ -20,6 +20,8 @@
 
 9. Praise the mulberry beyond its fruit, and the locust learns to trust false praise.
 
+10. The tree pointed at must be a real tree. Otherwise the listener learns only to watch the finger.
+
 ## Commentary
 
 The stratagem is usually read as discipline by indirection: correct one man by correcting another in his hearing. The trade card works the same way. It is written for the next reader of the position — a partner, a future self, a reviewer — and its honesty is measured by what it declines to claim.
