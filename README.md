@@ -43,6 +43,7 @@ This book is education, not advice. It contains no recommendations for you perso
 
 ## The author
 
-Henry Zhang · 张恒, [officialhenryzhang.com](https://www.officialhenryzhang.com)
+Henry Zhang · 张恒, [officialhenryzhang.com](https://www.officialhenryzhang.com) · [LinkedIn](https://www.linkedin.com/in/henryzhang99/) · [GitHub](https://github.com/henryzhangpku)
 
 - **The companion books** — [The Art of Options War · 期权兵法](https://github.com/henryzhangpku/art-of-options-war): Sun Tzu's thirteen chapters, read for the premium seller and the defined-risk credit spread. [The Options Underwriter · 期权承保](https://github.com/henryzhangpku/options-underwriter): the same trade read as insurance — policy, price, reserves, claims, catastrophe. Both are free.
+- **Notes and letters** — [henryzhang.substack.com](https://henryzhang.substack.com/)
