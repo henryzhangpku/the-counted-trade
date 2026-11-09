@@ -18,6 +18,8 @@ Both editions were written by hand. The Chinese is not a translation of the Engl
 | One file | [The whole book](en/the-whole-book.md) | [全书单页](zh/the-whole-book.md) |
 | Prologue | [Before the Count](en/prologue.md) | [算之前](zh/prologue.md) |
 
+Prefer it in your inbox? The PDF and EPUB, English and 中文, are also free in the [Quant Signals shop](https://shop.quantsignals.xyz/products/the-counted-trade-free-ebook-english).
+
 ## The six sets
 
 Each set opens with a chapter; the links below are the first of its six.
